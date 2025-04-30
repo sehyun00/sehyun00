@@ -3,9 +3,6 @@
 </div>
 
 # 안녕하세요, 개발자 김세현입니다 👋
-<div>
-  <img src="https://komarev.com/ghpvc/?username=sehyun00&color=green" alt="Profile Views" />
-</div>
 
 ## 🛠 기술 스택
 
@@ -90,3 +87,6 @@
 - 📧 **이메일**: sh000917@gmail.com
 
 ---
+<div align="center">
+  <a href="https://u8views.com/github/sehyun00"><img src="https://u8views.com/api/v1/github/profiles/sehyun00/views/day-week-month-total-count.svg" alt="Views" /></a>
+</div>
