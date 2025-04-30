@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Se Hyun&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SeHyun&fontSize=90" />
 </div>
 
 # 안녕하세요, 개발자 김세현입니다 👋
