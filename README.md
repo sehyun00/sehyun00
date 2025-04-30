@@ -27,15 +27,14 @@
 </p>
 
 ## 📊 GitHub 통계
-<div display=flex>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=sehyun00&show_icons=true&theme=radical" alt="GitHub Stats" />
-  </div>
+<div align="center">
 
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehyun00&layout=compact&theme=radical" alt="Top Languages" />
-  </div>
+| 활동 통계 | 주요 언어 |
+| --- | --- |
+| <img src="https://github-readme-stats.vercel.app/api?username=sehyun00&show_icons=true&theme=radical" alt="GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehyun00&layout=compact&theme=radical" alt="Top Languages" /> |
+
 </div>
+
 
 ## 🚀 주요 프로젝트
 
