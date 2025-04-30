@@ -88,5 +88,5 @@
 
 ---
 <div align="center">
-  <a href="https://u8views.com/github/sehyun00"><img src="https://u8views.com/api/v1/github/profiles/sehyun00/views/day-week-month-total-count.svg" alt="Views" /></a>
+  <img src="https://komarev.com/ghpvc/?username=sehyun00&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </div>
