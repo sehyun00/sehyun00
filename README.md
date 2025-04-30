@@ -1,8 +1,10 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SeHyun&fontSize=90" />
 </div>
-
-# 안녕하세요, 개발자 김세현입니다 👋
+<p>
+  # 안녕하세요, 개발자 김세현입니다 👋
+  <img src="https://komarev.com/ghpvc/?username=sehyun00&color=green" alt="Profile Views" />
+</p>
 
 ## 🛠 기술 스택
 
@@ -87,7 +89,3 @@
 - 📧 **이메일**: sh000917@gmail.com
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sehyun00&color=green" alt="Profile Views" />
-</div>
