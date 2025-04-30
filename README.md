@@ -90,3 +90,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sehyun00&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </div>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/sehyun00/count.svg" alt="Visitor Count" />
+</div>
