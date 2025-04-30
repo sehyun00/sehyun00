@@ -28,4 +28,4 @@
 
 ## 연락처
 
-- 이메일: your.email@example.com
+- 이메일: sh000917@gmail.com
