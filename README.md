@@ -93,33 +93,7 @@
   <img alt="공공데이터 API" src="https://img.shields.io/badge/공공데이터_API-003D82?style=for-the-badge&logo=data&logoColor=white"/>
 </p>
 
-## 📊 GitHub 통계
 
-<div align="center">
-
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=sehyun00&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 📈 GitHub Stats & Activity
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=sehyun00&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sehyun00&theme=radical&hide_border=false" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
-### 💻 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehyun00&layout=compact&theme=radical&hide_border=false&include_all_commits=true&count_private=true&hide=jupyter%20notebook" alt="Top Languages" />
-
-### 📊 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sehyun00&theme=react-dark&hide_border=false" alt="GitHub Activity Graph" />
-
-</div>
 
 ## 🚀 주요 프로젝트
 
