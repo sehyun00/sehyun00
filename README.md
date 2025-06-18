@@ -133,7 +133,6 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-sh000917@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sh000917@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sehyun00)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://sehyun00.github.io)
 
 </div>
@@ -145,7 +144,6 @@
 ### 🌟 Thanks for visiting my profile! 🌟
 
 <img src="https://komarev.com/ghpvc/?username=sehyun00&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-<img src="https://profile-counter.glitch.me/sehyun00/count.svg" alt="Visitor Count" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
 
