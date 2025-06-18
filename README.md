@@ -155,50 +155,17 @@
 - 사용자 만족도 **4.2/5.0**
 - 팀 "**우상향**" 리더로서 프로젝트 성공적 완수
 
----
+## 💼 기타 프로젝트
 
 ### 🏛️ [대선 후보 공약 열람 및 평가 시스템](https://github.com/sehyun00/C_Project)
-> **공공데이터 API 연동 TCP 소켓 기반 실시간 시스템**
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-완료-brightgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Team-개인-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Role-Full%20Stack-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Type-개인%20프로젝트-green?style=for-the-badge"/>
-</div>
-
-**🔧 사용 기술:**
-- **Core Language**: C언어 (C99 표준, 97.6%)
-- **Network**: TCP 소켓, Winsock2, 멀티스레드 서버
-- **System**: Windows API, pthread, 실시간 통신
-- **External APIs**: 공공데이터포털 3개 API (선거정보, 후보자정보, 공약정보)
-- **Build System**: Makefile, MinGW GCC
-
-**✨ 주요 기능:**
-- 🌐 **멀티스레드 서버**: 최대 10명 동시 접속 지원
-- 📡 **실시간 API 연동**: 공공데이터포털 실시간 데이터 수집
-- 💾 **지능형 캐싱**: 24시간 기준 로컬 데이터 캐시 시스템
-- 🔐 **보안 시스템**: 해시 기반 비밀번호, 세션 관리
-- 📊 **평가 시스템**: 공약별 좋아요/싫어요 투표 및 실시간 통계
-- 🏆 **인기도 랭킹**: 상위 20개 공약 실시간 순위 제공
-
-**🏗️ 시스템 아키텍처:**
-- **Client-Server 구조**: TCP 소켓 기반 실시간 통신
-- **데이터 구조**: 15가지 메시지 타입으로 체계적 통신
-- **동시성 제어**: 스레드 안전성 및 동시 접근 제어
-- **모듈화 설계**: 공통 모듈, 서버/클라이언트 분리
-
-**🎯 개발 기간:** 2025.05.21 ~ 2025.06.18 (약 4주)
-
-**🏆 기술적 성과:**
-- **순수 C언어**로 복잡한 네트워크 시스템 구현
-- **멀티스레드 환경**에서 안정적인 동시 접속 처리
-- **실시간 API 연동** 및 효율적인 데이터 캐싱
-- **체계적인 프로젝트 구조** 및 빌드 시스템 구축
+**C언어 TCP 소켓 기반 멀티스레드 서버-클라이언트 시스템**
+- **기술**: C언어, TCP 소켓, 멀티스레드, 공공데이터 API
+- **특징**: 최대 10명 동시 접속, 실시간 데이터 캐싱, 공약 평가 시스템
+- **개발기간**: 2025.05.21 ~ 2025.06.18 (개인 프로젝트)
 
 ---
 
-### 🌟 추가 프로젝트 (개발 예정)
+### 🌟 향후 계획
 
 <details>
 <summary><b>📱 개인 프로젝트 로드맵</b></summary>
