@@ -90,25 +90,6 @@
 - 포트폴리오 최적화 정확도 **85%** 달성
 - 팀 "**우상향**" 리더로서 프로젝트 성공적 완수
 
-**📱 앱 화면 미리보기:**
-<div align="center">
-  <img src="./assets/images/sms_main.png" width="200" alt="메인 화면" style="margin: 5px;"/>
-  <img src="./assets/images/sms_portfolio.png" width="200" alt="포트폴리오 관리" style="margin: 5px;"/>
-  <img src="./assets/images/sms_chart.png" width="200" alt="데이터 차트" style="margin: 5px;"/>
-  <img src="./assets/images/sms_ai_result.png" width="200" alt="AI 추천 결과" style="margin: 5px;"/>
-</div>
-
-**🎬 실제 동작 데모:**
-<div align="center">
-  
-  ![SMS 앱 데모](./assets/images/sms_demo.gif)
-  
-  *실제 앱 사용 과정 (로그인 → 포트폴리오 조회 → AI 추천 → 결과 확인)*
-  
-</div>
-
-> 💡 **참고**: 이미지/동영상이 표시되지 않으면 `assets/images/` 폴더에 파일들을 추가해주세요.
-
 ## 💼 기타 프로젝트
 
 ### 🏛️ [대선 후보 공약 열람 및 평가 시스템](https://github.com/sehyun00/C_Project)
@@ -116,11 +97,6 @@
 - **기술**: C언어, TCP 소켓, 멀티스레드, 공공데이터 API
 - **특징**: 최대 10명 동시 접속, 실시간 데이터 캐싱, 공약 평가 시스템
 - **개발기간**: 2025.05.21 ~ 2025.06.18 (개인 프로젝트)
-
-<div align="center">
-  <img src="./assets/images/c_project_demo.png" width="400" alt="C 프로젝트 실행 화면" style="margin: 5px;"/>
-  <img src="./assets/images/c_project_architecture.png" width="350" alt="시스템 구조도" style="margin: 5px;"/>
-</div>
 
 ---
 
