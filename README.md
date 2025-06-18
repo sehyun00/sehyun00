@@ -35,15 +35,23 @@
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 </p>
 
-### 백엔드 & 데이터베이스
+### 백엔드 & 시스템 프로그래밍
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img alt="TCP Socket" src="https://img.shields.io/badge/TCP_Socket-FF6B6B?style=for-the-badge"/>
+  <img alt="Multithreading" src="https://img.shields.io/badge/Multithreading-4ECDC4?style=for-the-badge"/>
+  <img alt="RESTful API" src="https://img.shields.io/badge/RESTful_API-005571?style=for-the-badge"/>
+</p>
+
+### 데이터베이스
+<p>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img alt="RESTful API" src="https://img.shields.io/badge/RESTful_API-005571?style=for-the-badge"/>
+  <img alt="File System" src="https://img.shields.io/badge/File_System-FFA726?style=for-the-badge"/>
 </p>
 
 ### AI/ML & 데이터 사이언스
@@ -64,6 +72,8 @@
   <img alt="Sourcetree" src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white"/>
   <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+  <img alt="GCC" src="https://img.shields.io/badge/GCC-5C6BC0?style=for-the-badge&logo=gnu&logoColor=white"/>
+  <img alt="Makefile" src="https://img.shields.io/badge/Makefile-427819?style=for-the-badge&logo=cmake&logoColor=white"/>
 </p>
 
 ### 디자인 & 협업 도구
@@ -80,6 +90,7 @@
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img alt="API Integration" src="https://img.shields.io/badge/API_Integration-0467DF?style=for-the-badge"/>
   <img alt="Kakao API" src="https://img.shields.io/badge/Kakao_API-FFCD00?style=for-the-badge&logo=kakao&logoColor=black"/>
+  <img alt="공공데이터 API" src="https://img.shields.io/badge/공공데이터_API-003D82?style=for-the-badge&logo=data&logoColor=white"/>
 </p>
 
 ## 📊 GitHub 통계
@@ -117,13 +128,15 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-완료-brightgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Team-4명-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Team-우상향(4명)-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Role-팀장%20%26%20프론트엔드-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Type-기업연계%20프로젝트-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🏆%20동상%20수상-gold?style=for-the-badge"/>
 </div>
 
 **🔧 사용 기술:**
 - **Frontend**: React Native, Expo, JavaScript, Data Visualization
-- **Backend**: Spring Boot, Java, RESTful API Design
+- **Backend**: Spring Boot, Java, RESTful API Design  
 - **AI/ML**: GNN(Graph Neural Network), DRL(Deep Reinforcement Learning), LPPLS Model
 - **External APIs**: CODEF API (계좌 정보), Kakao API (로그인)
 - **Database**: MySQL, PostgreSQL
@@ -136,36 +149,82 @@
 - 📱 크로스 플랫폼 모바일 앱 지원
 
 **🏆 성과:**
+- 🥉 **SW중심대학사업단 기업연계 프로젝트 경진대회 동상 수상**
 - 포트폴리오 최적화 정확도 **85%** 달성
 - 실시간 데이터 처리 지연시간 **0.5초** 이하
 - 사용자 만족도 **4.2/5.0**
+- 팀 "**우상향**" 리더로서 프로젝트 성공적 완수
+
+---
+
+### 🏛️ [대선 후보 공약 열람 및 평가 시스템](https://github.com/sehyun00/C_Project)
+> **공공데이터 API 연동 TCP 소켓 기반 실시간 시스템**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-완료-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Team-개인-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Role-Full%20Stack-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Type-개인%20프로젝트-green?style=for-the-badge"/>
+</div>
+
+**🔧 사용 기술:**
+- **Core Language**: C언어 (C99 표준, 97.6%)
+- **Network**: TCP 소켓, Winsock2, 멀티스레드 서버
+- **System**: Windows API, pthread, 실시간 통신
+- **External APIs**: 공공데이터포털 3개 API (선거정보, 후보자정보, 공약정보)
+- **Build System**: Makefile, MinGW GCC
+
+**✨ 주요 기능:**
+- 🌐 **멀티스레드 서버**: 최대 10명 동시 접속 지원
+- 📡 **실시간 API 연동**: 공공데이터포털 실시간 데이터 수집
+- 💾 **지능형 캐싱**: 24시간 기준 로컬 데이터 캐시 시스템
+- 🔐 **보안 시스템**: 해시 기반 비밀번호, 세션 관리
+- 📊 **평가 시스템**: 공약별 좋아요/싫어요 투표 및 실시간 통계
+- 🏆 **인기도 랭킹**: 상위 20개 공약 실시간 순위 제공
+
+**🏗️ 시스템 아키텍처:**
+- **Client-Server 구조**: TCP 소켓 기반 실시간 통신
+- **데이터 구조**: 15가지 메시지 타입으로 체계적 통신
+- **동시성 제어**: 스레드 안전성 및 동시 접근 제어
+- **모듈화 설계**: 공통 모듈, 서버/클라이언트 분리
+
+**🎯 개발 기간:** 2025.05.21 ~ 2025.06.18 (약 4주)
+
+**🏆 기술적 성과:**
+- **순수 C언어**로 복잡한 네트워크 시스템 구현
+- **멀티스레드 환경**에서 안정적인 동시 접속 처리
+- **실시간 API 연동** 및 효율적인 데이터 캐싱
+- **체계적인 프로젝트 구조** 및 빌드 시스템 구축
 
 ---
 
 ### 🌟 추가 프로젝트 (개발 예정)
 
 <details>
-<summary><b>📱 개인 프로젝트 목록</b></summary>
+<summary><b>📱 개인 프로젝트 로드맵</b></summary>
 
-- **AI 챗봇 서비스**: OpenAI API를 활용한 개인화 챗봇
-- **날씨 예측 앱**: 머신러닝 기반 정확한 날씨 예측
-- **개인 가계부 앱**: React Native + Firebase
-- **블로그 플랫폼**: Next.js + Spring Boot
+**🔮 계획 중인 프로젝트:**
+- **추후 계획 예정**: 내용(기술)
+
+**🎯 현재 집중 목표:**
+- **정보처리기사** 자격증 취득 우선
+- 기존 프로젝트 **성능 최적화** 및 **리팩토링**
+- **Spring Boot** 및 **React Native** 기술 역량 심화
 
 </details>
 
 ## 🎯 목표 및 학습 계획
 
-### 📚 2024년 학습 목표
-- [ ] **AWS 클라우드 아키텍처** 마스터
-- [ ] **Docker & Kubernetes** 컨테이너 기술 숙련
-- [ ] **GraphQL** API 설계 및 구현
-- [ ] **React Native** 고급 기능 및 성능 최적화
-- [ ] **Flutter** 크로스 플랫폼 개발
+### 📚 2025년 학습 계획
+- [x] **정보처리기사** 자격증 준비 중 🔥
+- [ ] **Spring Boot** 심화 학습
+- [ ] **React Native** 성능 최적화 기법
+- [ ] **AI/ML** 프로젝트 경험 확대
+- [ ] **클라우드 서비스** 기초 학습
 
-### 🏅 취득 예정 자격증
-- [ ] **AWS Solutions Architect Associate**
-- [ ] **Google Cloud Professional Cloud Architect**
+### 🏅 자격증 현황
+- [ ] **정보처리기사** (준비 중)
+- [ ] **추가 자격증** (정보처리기사 취득 후 계획 예정)
 
 ## 📫 연락처 및 소셜미디어
 
@@ -174,14 +233,6 @@
 [![Email](https://img.shields.io/badge/Email-sh000917@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sh000917@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sehyun00)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://sehyun00.github.io)
-
-</div>
-
-## 💡 한줄 명언
-
-<div align="center">
-  
-*"코드는 시를 쓰는 것과 같다. 간결하고 아름답게."*
 
 </div>
 
