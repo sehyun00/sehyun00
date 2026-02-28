@@ -65,15 +65,15 @@
 
 ### 🏆 주요 프로젝트
 
-#### 🎯 [Stock Management Service Project](https://github.com/sehyun00/SMS_Project)
+#### 🎯 [Stock Management Service Project (Web)](https://github.com/sehyun00/SMS_Project) & [Backtesting (AI)](https://github.com/sehyun00/SMS_Backtesting)
 
-> **AI 기반 주식 포트폴리오 리밸런싱 최적화 웹 서비스**
+> **AI 기반 주식 포트폴리오 리밸런싱 최적화 웹 서비스 및 논문 연구**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-완료-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-고도화%20중(논문)-brightgreen?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Team-우상향(4명)-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Role-팀장%20%26%20Front--End%20%26%20AI-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Type-기업연계%20프로젝트-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Type-기업연계%20%26%20연구-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🏆%20동상%20수상-gold?style=for-the-badge"/>
 </div>
 
@@ -94,7 +94,8 @@
 **🏆 성과:**
 
 - 🥉 **SW중심대학사업단 기업연계 프로젝트 경진대회 동상 수상**
-- 포트폴리오 리밸런싱을 통해 일일 평균 손실률 **27% 개선**, 변동성 **11% 감소** 달성
+- 하이브리드(TGNN-DDPG) 모델로 Annual 기준 **CAGR 9.28%** (Benchmark 대비 **2.93%p 초과 수익**) 달성 및 손실률 **27% 개선**
+- 프로젝트 성과를 기반으로 지도교수님 공조 하에 **해외 저널 타겟 공동 논문 작업 진행 중**
 - 스크럼/칸반 방식 도입 및 팀장으로서 개발 주기 단축, 기한 내 프로덕트 런칭 성공
 
 ---
@@ -130,7 +131,15 @@
 
 ---
 
-### 🌱 기타 개인 및 토이 프로젝트
+### 🌱 기타 프로젝트
+
+#### 🧪 [XRD Peak Detection Analysis Tool](https://github.com/sehyun00/XRD-Peak-Detection-Analysis-Tool)
+
+> **신소재공학 실험 데이터(XRD) 피크 검출 파이프라인 자동화 툴**
+
+- **기술**: Python, SciPy, Pandas, Matplotlib
+- **특징**: 수작업에 의존하던 노이즈 피크 분석을 CWT 형상 인식 및 통계적 검증(MAD) 기법으로 완전 자동화 구현.
+- **성과**: 제안 툴의 유효성을 지도교수님께 검증받았으며, 효율성 및 분석 퀄리티 확대로 해당 실험 과목 **최종 A+ 성적 달성**.
 
 #### 🔬 [MEVA (Materials Engineering Visualization &amp; Analysis)](https://github.com/sehyun00/MEVA)
 
