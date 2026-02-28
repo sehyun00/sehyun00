@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SeHyun&fontSize=90" />
+</div>
+
+<div align="center">
 
 # 안녕하세요, 끊임없이 성장하는 개발자 김세현입니다 👋
 
@@ -60,6 +64,7 @@
 ## 🚀 프로젝트 경험
 
 ---
+
 
 ### 🏆 주요 프로젝트
 
